@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # bayes-glmm-fantasy-soccer
 =======
 # bayes-glmm-fantasy-soccer
@@ -17,5 +17,3 @@ Predictive Bayesian GLMM for fantasy soccer (World Cup demo).
 ```bash
 python -m venv .venv
 .venv\Scripts\activate   # Windows
-pip install -r requirements.txt
->>>>>>> 0f182b2 (Initial import: feature engineering + modeling scripts)

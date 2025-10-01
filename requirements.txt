@@ -1,0 +1,9 @@
+pandas
+numpy
+statsbombpy
+pymc      # modern PyMC
+arviz
+scikit-learn
+matplotlib
+jupyterlab
+tqdm

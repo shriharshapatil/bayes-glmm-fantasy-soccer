@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.env
+env/
+.venv/
+venv/
+venv.bak/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Virtual envs
+.venv/
+env/
+ENV/
+
+# IDEs
+.vscode/
+.idea/
+
+# Data & model outputs (do NOT commit large raw data)
+data/raw/
+data/model_output/
+*.sqlite3
+*.db
+*.h5
+*.hdf5
+*.npz
+
+# Logs and caches
+*.log
+.ipynb_checkpoints
+
+# OS
+.DS_Store
+Thumbs.db
+
+# PyCharm
+.idea/
+
+# Git LFS placeholder (if you use LFS)
+*.bin
